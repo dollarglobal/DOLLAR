@@ -1,4 +1,6 @@
-## Dollarcoin [DOLLAR]
+## Dollarcoin 
+
+Abbrevation DOLLAR or sign $.
 
 ## Website
 
