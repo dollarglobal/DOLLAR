@@ -1,0 +1,11 @@
+Makefile
+
+build
+
+dollarcoin-qt
+
+qrc_bitcoin.cpp
+
+src/obj
+
+src/dollarcoind
