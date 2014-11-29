@@ -1,8 +1,11 @@
 ## Dollarcoin 
 
 Abbrevation word: DOLLAR
+
 Abbrevation sign: $
+
 Numerical code: &#36;
+
 HEX code: &#x24;
 
 ## Website
