@@ -4,10 +4,6 @@ Abbrevation word: DOLLAR
 
 Abbrevation sign: $
 
-Numerical code: &#36;
-
-HEX code: &#x24;
-
 ## Website
 
 http://www.edollar.international/
@@ -40,11 +36,11 @@ The total number of DOLLAR coins will be 10 billions.
 
 Block 1-200,000 : 2 DOLLAR Reward
 
-Block 200,001 -400,000 : 2-20 DOLLAR Reward
+Block 200,001 - 400,000 : 2-20 DOLLAR Reward
 
-Block 400,001 -600,000 : 2-30 DOLLAR Reward
+Block 400,001 - 600,000 : 2-30 DOLLAR Reward
 
-Block 600,001 -800,000 : 2-20 DOLLAR Reward
+Block 600,001 - 800,000 : 2-20 DOLLAR Reward
 
 Block 800,001+ : 10 DOLLAR Reward
 
